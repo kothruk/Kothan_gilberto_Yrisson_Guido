@@ -5,7 +5,7 @@ Soy un anlista de datos independiente apacionado por el mundo digital. Todos los
 
 **Herramientas que ocupo a diario**
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,mysql,vscode,mssql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,mysql,vscode,mssql)](https://skillicons.dev)
 
 **Proyectos**
 
