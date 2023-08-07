@@ -7,7 +7,15 @@ Soy un anlista de datos independiente apacionado por el mundo digital. Todos los
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,mysql,vscode,mssql)](https://skillicons.dev)
 
-**Proyectos**
+**Proyectos de ciencia de datos**
 
 SSMS y Power Bi:
+
+Excel y Power Bi:
+
+**Proyectos de frontend**
+
+Gimnacio:
+
+
 
